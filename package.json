@@ -1,0 +1,13 @@
+{
+  "name": "gas-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "TadahiroYamamura <mt.village12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@google/clasp": "^2.3.0",
+    "@types/google-apps-script": "^1.0.14",
+    "typescript": "^3.9.6"
+  }
+}
