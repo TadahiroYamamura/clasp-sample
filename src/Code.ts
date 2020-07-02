@@ -1,5 +1,9 @@
 import { Sample } from './Sample';
 
-function main() {
-  (new Sample()).say(123);
+declare const global: {
+  [x: string]: any;
+}
+
+global.main = function() {
+  (new Sample()).say('Hey!');
 }
