@@ -1,1 +1,5 @@
-{"scriptId":"1_6xguf3EF3AqhXa01f-rl0qvhTSo8VPMs0GkcXeNNECbyKkoVJVIX9s9","projectId":"clasp-sample-282105"}
+{
+  "scriptId":"1_6xguf3EF3AqhXa01f-rl0qvhTSo8VPMs0GkcXeNNECbyKkoVJVIX9s9",
+  "projectId":"clasp-sample-282105",
+  "rootDir": "dist"
+}
